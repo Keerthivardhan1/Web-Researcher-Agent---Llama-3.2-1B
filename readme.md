@@ -26,7 +26,7 @@ Follow these steps to clone and run the project:
 ### Installation
 
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/ai-web-researcher.git
+   git clone
 
 2. **npm install**
 
